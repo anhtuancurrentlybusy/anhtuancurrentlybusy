@@ -1,4 +1,4 @@
-👋 Hi, I'm Tuấn!
+##👋 Hi, I'm Tuấn!
 
 IC Design Student | RTL Design & Design Verification
 
