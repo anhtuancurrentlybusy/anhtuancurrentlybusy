@@ -1,76 +1,70 @@
-Hi, I'm Tuấn 👋
+👋 Hi, I'm Tuấn!
 
 IC Design Student | RTL Design & Design Verification
 
-I'm a third-year Integrated Circuit Design student at Phenikaa University, Vietnam, interested in digital design, RTL development, and functional verification.
+🎓 Third-year Integrated Circuit Design student at Phenikaa University, Vietnam.
 
-I'm currently building hands-on projects to develop my skills in digital hardware design and ASIC design flows.
+I'm interested in digital hardware design, RTL development, functional verification, and ASIC design flows. I learn by building projects, running simulations, debugging waveforms, and evaluating hardware implementations.
 
-🔧 Technical Skills
+🛠️ Tech Stack
 
 Hardware Description Languages
 
-Verilog
 
-SystemVerilog (learning)
 
-RTL Design & Verification
 
-FSM-based design
+Design & Verification Tools
 
-Digital design fundamentals
 
-Testbench development
 
-Simulation and waveform debugging
 
-Tools & Workflow
 
-Icarus Verilog
 
-GTKWave
+Development Workflow
 
-Yosys
 
-OpenLane
 
-Git & GitHub
 
-Linux / Ubuntu
 
 🚀 Featured Projects
 
-UART 8N1 Transmitter
+1. UART 8N1 Transmitter
 
-A digital UART transmitter supporting 8-bit data transmission with one start bit and one stop bit.
+A modular RTL implementation of a UART transmitter supporting 8-bit data, one start bit, and one stop bit.
 
-RTL implementation and modular design
+Verilog/SystemVerilog RTL development
 
-Self-checking-oriented simulation and test scenarios
+Simulation and waveform debugging
 
-Waveform-based debugging
+Testbench with multiple test scenarios
 
-Automated simulation with GitHub Actions
+Automated testing with GitHub Actions
 
-Synthesis and ASIC flow evaluation
+Synthesis and ASIC flow evaluation using Yosys and OpenLane
 
-Repository: uart-8n1-tx
+🔗 View Repository
 
-Die-to-Die Link Flow Control
+2. Credit- and Deadline-Aware Die-to-Die Flow Control
 
-RTL design research on credit- and deadline-aware flow control for a shallow-buffer die-to-die link under tiled GEMM traffic.
+RTL design research for a shallow-buffer die-to-die link under tiled GEMM traffic.
+
+Credit-based flow control
+
+Buffer management
+
+RTL implementation and synthesis/PPA evaluation
 
 Project in development.
 
 📚 Currently Learning
 
-Verilog and SystemVerilog
+RTL design and FSM implementation
 
-RTL Design and FSM implementation
+SystemVerilog and functional verification
 
-Functional verification and testbench methodology
+Testbench development and debugging
 
-Synthesis, timing analysis, and PPA evaluation
+ASIC synthesis, timing analysis, and PPA evaluation
 
 🎯 Career Interests
 
@@ -80,4 +74,4 @@ Design Verification Engineer
 
 Digital ASIC / SoC Design
 
-Learning by building, verifying, and improving digital hardware projects.
+Building digital hardware, one project at a time.
